@@ -2,15 +2,14 @@
 
 A Laravel starter for better development experience ✌
 
-## Some notable features of this include:
-- [Laravel UI](https://laravel.com/docs/6.x/frontend)
+## Included Packages
 - [Ide Helper](https://github.com/barryvdh/laravel-ide-helper)
-- [Debugbar](https://github.com/barryvdh/laravel-debugbar)
+- [Laravel Sanctum](https://laravel.com/docs/7.x/sanctum)
+- [Laravel Cors](https://github.com/fruitcake/laravel-cors)
 
 ### Installation
-1. Clone this repository
-2. Run `composer install`
-3. Generate ide helper: `php artisan ide-helper:generate`
-4. Run your `laravel/ui` preference (optional)
-5. Change to your remote repository url
-6. Happy coding! 👩‍💻👨‍💻💻
+1. Hit the `Use this template` button
+2. Clone to your machine
+3. Run `composer install`
+4. Generate ide helper: `php artisan ide-helper:generate`
+5. Happy coding! 👩‍💻👨‍💻💻
